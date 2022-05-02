@@ -9,7 +9,7 @@ Node.js is an open-source, cross-platform runtime environment for developing ser
 Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, and Linux.
 Node.js also provides a rich library of various JavaScript modules which simplifies the development of web applications using Node.js to a great extent.
 
-# Node.js = Runtime Environment + JavaScript Library 
+** Node.js = Runtime Environment + JavaScript Library **
 
 Following are some of the important features that make Node.js the first choice of software architects.
 
@@ -23,13 +23,12 @@ No Buffering − Node.js applications never buffer any data. These applications 
 
 License − Node.js is released under the MIT license
 
-**OR**
-
 - Node.js is an open source server environment
 - Node.js is free
 - Node.js runs on various platforms (Windows, - - Linux, Unix, Mac OS X, etc.)
 - Node.js uses JavaScript on the server
 
+** ================================================================================================================================================ **
 # How is node js non blocking?
 => **Non-Blocking:** It refers to the program that does not block the execution of further operations. Non-Blocking methods are executed asynchronously. Asynchronously means that the program may not necessarily execute line by line. The program calls the function and move to the next operation and does not wait for it to return.
 
